@@ -88,6 +88,11 @@ h1 {
   margin-bottom: 16px;
 }
 
+.app__result p .searchmatch {
+  color: #a84fff;
+  font-weight: 700;
+}
+
 .app__result a {
   display: inline-block;
   padding: 12px 16px;
